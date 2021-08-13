@@ -1,4 +1,5 @@
 # vue-supabase
+This is an example of Vue js 3 using Supabase authentication
 
 ## Project setup
 ```
